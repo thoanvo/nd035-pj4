@@ -1,0 +1,111 @@
+2024-03-25 11:10:32,417 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 80844 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 11:10:32,438 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 11:10:41,709 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 10.272 seconds (JVM running for 12.189)
+2024-03-25 11:11:39,404 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Username is test
+2024-03-25 11:11:39,590 INFO c.e.d.c.UserController [http-nio-8080-exec-1] User created successfully
+2024-03-25 11:12:27,069 INFO c.e.d.c.UserController [http-nio-8080-exec-4] Find user id: 1
+2024-03-25 11:12:36,943 INFO c.e.d.c.UserController [http-nio-8080-exec-5] Find user name: test
+2024-03-25 11:12:46,055 INFO c.e.d.c.ItemController [http-nio-8080-exec-6] Get item id: 1
+2024-03-25 11:12:54,214 INFO c.e.d.c.ItemController [http-nio-8080-exec-7] Get Item success
+2024-03-25 11:13:02,914 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Find order history for User: test
+2024-03-25 11:13:13,371 INFO c.e.d.c.CartController [http-nio-8080-exec-9] Add cart successfully
+2024-03-25 11:13:18,087 INFO c.e.d.c.UserController [http-nio-8080-exec-10] Find order history for User: test
+2024-03-25 11:13:29,642 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Find order history for User: test
+2024-03-25 11:29:32,152 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 103292 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 11:29:32,174 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 11:29:40,080 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 8.594 seconds (JVM running for 10.988)
+2024-03-25 11:29:47,053 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Username is test
+2024-03-25 11:29:47,250 INFO c.e.d.c.UserController [http-nio-8080-exec-1] User created successfully
+2024-03-25 11:29:51,053 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Find user id: 1
+2024-03-25 11:30:13,938 INFO c.e.d.c.CartController [http-nio-8080-exec-4] Add cart successfully
+2024-03-25 11:30:17,859 INFO c.e.d.c.UserController [http-nio-8080-exec-5] Find order history for User: test
+2024-03-25 11:32:20,395 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 102600 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 11:32:20,446 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 11:32:28,317 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 8.76 seconds (JVM running for 10.706)
+2024-03-25 11:32:41,968 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Username is test
+2024-03-25 11:32:42,130 INFO c.e.d.c.UserController [http-nio-8080-exec-2] User created successfully
+2024-03-25 11:32:46,540 INFO c.e.d.c.CartController [http-nio-8080-exec-4] Add cart successfully
+2024-03-25 11:32:55,706 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Find order history for User: test
+2024-03-25 13:03:01,045 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 105372 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 13:03:01,083 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 13:03:09,681 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 9.624 seconds (JVM running for 11.9)
+2024-03-25 13:03:40,798 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Username is test
+2024-03-25 13:03:40,963 INFO c.e.d.c.UserController [http-nio-8080-exec-1] User created successfully
+2024-03-25 13:04:13,822 INFO c.e.d.c.CartController [http-nio-8080-exec-4] Add cart successfully
+2024-03-25 13:04:27,541 INFO c.e.d.c.CartController [http-nio-8080-exec-5] Add cart successfully
+2024-03-25 13:04:42,131 INFO c.e.d.c.CartController [http-nio-8080-exec-6] Add cart successfully
+2024-03-25 13:05:03,588 INFO c.e.d.c.UserController [http-nio-8080-exec-7] Find order history for User: test
+2024-03-25 13:05:18,666 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Find order history for User: test
+2024-03-25 13:07:48,492 ERROR c.e.d.c.UserController [http-nio-8080-exec-2] Not found username:1
+2024-03-25 13:08:04,161 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Find order history for User: test
+2024-03-25 13:08:14,682 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Find order history for User: test
+2024-03-25 13:10:10,903 INFO c.e.d.c.CartController [http-nio-8080-exec-6] Add cart successfully
+2024-03-25 13:14:47,298 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 106868 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 13:14:47,314 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 13:14:54,761 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 8.154 seconds (JVM running for 9.946)
+2024-03-25 13:15:23,874 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Username is test
+2024-03-25 13:15:24,069 INFO c.e.d.c.UserController [http-nio-8080-exec-1] User created successfully
+2024-03-25 13:15:27,014 INFO c.e.d.c.UserController [http-nio-8080-exec-6] Find user id: 1
+2024-03-25 13:15:39,166 INFO c.e.d.c.UserController [http-nio-8080-exec-7] Find user name: test
+2024-03-25 13:17:26,828 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 101388 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 13:17:26,851 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 13:17:34,937 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 8.781 seconds (JVM running for 10.721)
+2024-03-25 13:17:41,502 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Username is test
+2024-03-25 13:17:41,729 INFO c.e.d.c.UserController [http-nio-8080-exec-1] User created successfully
+2024-03-25 13:17:46,542 INFO c.e.d.c.UserController [http-nio-8080-exec-7] Find user id: 1
+2024-03-25 13:17:49,659 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Find user name: test
+2024-03-25 13:17:56,169 INFO c.e.d.c.UserController [http-nio-8080-exec-9] Find user id: 1
+2024-03-25 13:20:14,069 INFO c.e.d.c.CartController [http-nio-8080-exec-4] Add cart successfully
+2024-03-25 13:21:05,626 INFO c.e.d.c.UserController [http-nio-8080-exec-5] Find order history for User: test
+2024-03-25 13:22:12,313 ERROR c.e.d.c.UserController [http-nio-8080-exec-3] Not found username:11
+2024-03-25 13:22:32,245 ERROR c.e.d.c.UserController [http-nio-8080-exec-10] Not found username:1
+2024-03-25 13:35:05,809 INFO c.e.d.c.UserController [http-nio-8080-exec-7] Find order history for User: test
+2024-03-25 13:38:18,551 INFO c.e.d.ECommerceApplicationTests [main] Starting ECommerceApplicationTests on CVPthoanvtt-44 with PID 103276 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 13:38:18,595 INFO c.e.d.ECommerceApplicationTests [main] No active profile set, falling back to default profiles: default
+2024-03-25 13:38:28,495 INFO c.e.d.ECommerceApplicationTests [main] Started ECommerceApplicationTests in 10.507 seconds (JVM running for 14.268)
+2024-03-25 13:38:28,964 INFO c.e.d.c.ItemController [main] Get item id: 1
+2024-03-25 13:38:28,973 INFO c.e.d.c.ItemController [main] Get all items
+2024-03-25 13:38:28,974 INFO c.e.d.c.ItemController [main] Get Item success
+2024-03-25 13:38:29,035 INFO c.e.d.c.UserController [main] Username is thoanvtt
+2024-03-25 13:38:29,035 INFO c.e.d.c.UserController [main] User created successfully
+2024-03-25 13:38:29,036 INFO c.e.d.c.UserController [main] Find user id: 0
+2024-03-25 13:38:29,037 INFO c.e.d.c.UserController [main] Username is thoanvtt
+2024-03-25 13:38:29,037 INFO c.e.d.c.UserController [main] User created successfully
+2024-03-25 13:38:29,038 INFO c.e.d.c.UserController [main] Find user name: thoanvtt
+2024-03-25 13:38:29,041 INFO c.e.d.c.UserController [main] Username is thoanvtt
+2024-03-25 13:38:29,042 INFO c.e.d.c.UserController [main] User created successfully
+2024-03-25 13:38:29,047 ERROR c.e.d.c.CartController [main] Not found username:thoanvtt
+2024-03-25 13:38:29,054 INFO c.e.d.c.CartController [main] Add cart successfully
+2024-03-25 13:38:29,067 INFO c.e.d.c.CartController [main] Remove cart successfully
+2024-03-25 13:38:29,096 ERROR c.e.d.c.UserController [main] Not found username:thoanvtt
+2024-03-25 13:38:29,099 ERROR c.e.d.c.UserController [main] Not found username:thoanvtt
+2024-03-25 13:38:29,100 ERROR c.e.d.c.UserController [main] Not found username:thoanvtt
+2024-03-25 13:38:29,104 INFO c.e.d.c.UserController [main] User order successfully
+2024-03-25 13:38:29,105 INFO c.e.d.c.UserController [main] Find order history for User: thoanvtt
+2024-03-25 13:38:29,112 INFO c.e.d.c.UserController [main] User order successfully
+2024-03-25 13:52:48,645 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 105660 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 13:52:48,669 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 13:52:56,471 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 8.531 seconds (JVM running for 10.037)
+2024-03-25 13:53:20,917 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Username is test
+2024-03-25 13:53:21,017 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Error - Either length is less than 6 or pass and confirm pass do not match. Unable to create
+2024-03-25 13:53:41,087 INFO c.e.d.c.UserController [http-nio-8080-exec-4] Username is test
+2024-03-25 13:53:41,183 INFO c.e.d.c.UserController [http-nio-8080-exec-4] User created successfully
+2024-03-25 13:53:52,484 INFO c.e.d.c.UserController [http-nio-8080-exec-5] Find user id: 1
+2024-03-25 13:54:10,080 INFO c.e.d.c.CartController [http-nio-8080-exec-7] Add cart successfully
+2024-03-25 13:54:36,224 ERROR c.e.d.c.CartController [http-nio-8080-exec-8] Not found Item
+2024-03-25 13:55:42,099 INFO c.e.d.ECommerceApplication [main] Starting ECommerceApplication on CVPthoanvtt-44 with PID 105264 (started by ThoanVTT in E:\OneDrive\OneDrive - FPT Corporation\ThoanVTT_Study\Udacity\Java Web Development with Spring Boot\projects\nd035-c4-Security-and-DevOps-thoanvtt\starter_code)
+2024-03-25 13:55:42,143 INFO c.e.d.ECommerceApplication [main] No active profile set, falling back to default profiles: default
+2024-03-25 13:55:50,753 INFO c.e.d.ECommerceApplication [main] Started ECommerceApplication in 9.465 seconds (JVM running for 10.969)
+2024-03-25 13:55:51,297 ERROR c.e.d.c.CartController [http-nio-8080-exec-1] Not found username:test
+2024-03-25 13:56:01,605 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Username is test
+2024-03-25 13:56:01,779 INFO c.e.d.c.UserController [http-nio-8080-exec-2] User created successfully
+2024-03-25 13:56:07,435 ERROR c.e.d.c.CartController [http-nio-8080-exec-4] Not found Item with id 5
+2024-03-25 13:56:14,719 INFO c.e.d.c.CartController [http-nio-8080-exec-5] Add cart successfully
+2024-03-25 13:56:34,083 INFO c.e.d.c.UserController [http-nio-8080-exec-6] Username is test2
+2024-03-25 13:56:34,089 INFO c.e.d.c.UserController [http-nio-8080-exec-6] Error - Either length is less than 6 or pass and confirm pass do not match. Unable to create
+2024-03-25 13:57:16,560 INFO c.e.d.c.ItemController [http-nio-8080-exec-8] Get item id: 11
+2024-03-25 13:57:16,562 ERROR c.e.d.c.ItemController [http-nio-8080-exec-8] Not found id: 11
+2024-03-25 14:22:59,460 INFO c.e.d.c.UserController [http-nio-8080-exec-4] Username is test2
+2024-03-25 14:22:59,542 INFO c.e.d.c.UserController [http-nio-8080-exec-4] User created successfully
+2024-03-25 14:23:06,047 INFO c.e.d.c.UserController [http-nio-8080-exec-5] Username is test3
+2024-03-25 14:23:06,049 INFO c.e.d.c.UserController [http-nio-8080-exec-5] Error - Either length is less than 6 or pass and confirm pass do not match. Unable to create
